@@ -1,4 +1,5 @@
 # Banterio Banteras
+![](http://i.imgur.com/xne2TZD.jpg)
 Turns anyone in your you slack list into Bantonio Banteras.
 Classic bants!
 
@@ -12,6 +13,7 @@ $ git clone git@github.com:craiglonsdale/BantonioBanteras.git
 
 ```
 $ cd bantonio-banteras
+$ pip install -r requirements.txt
 ```
 
 ### 3. Run It
